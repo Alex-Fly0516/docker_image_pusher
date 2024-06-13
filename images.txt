@@ -5,3 +5,4 @@ xhofe/alist:latest
 whyour/qinglong
 joinsunsoft/docker.ui
 portainer/portainer-ce
+6053537/portainer-ce
