@@ -5,3 +5,4 @@ xhofe/alist:latest
 whyour/qinglong
 joinsunsoft/docker.ui
 6053537/portainer-ce
+dushixiang/next-terminal
