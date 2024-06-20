@@ -7,3 +7,4 @@ joinsunsoft/docker.ui
 6053537/portainer-ce
 dushixiang/next-terminal
 hsuyelin/nas-tools
+lovechen/embyserver
