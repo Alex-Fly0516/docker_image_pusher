@@ -6,3 +6,5 @@ whyour/qinglong
 joinsunsoft/docker.ui
 6053537/portainer-ce
 dushixiang/next-terminal
+jxxghp/nas-tools
+sungamma/nas-tools
