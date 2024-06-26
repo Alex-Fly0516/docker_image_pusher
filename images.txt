@@ -9,3 +9,4 @@ dushixiang/next-terminal
 hsuyelin/nas-tools
 lovechen/embyserver
 tiptime/ttnode
+gdy666/lucky
