@@ -11,3 +11,4 @@ lovechen/embyserver
 tiptime/ttnode
 gdy666/lucky
 tailscale/tailscale
+halo/halo:2.17
