@@ -12,3 +12,4 @@ tiptime/ttnode
 gdy666/lucky
 tailscale/tailscale
 qdtoday/qd
+halo-dev/halo
